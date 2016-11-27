@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/zuk/ham/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/zuk/ham/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
-    vendor/zuk/ham/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/zuk/ham/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/zuk/ham/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/zuk/ham/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
